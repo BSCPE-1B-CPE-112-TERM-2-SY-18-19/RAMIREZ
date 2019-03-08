@@ -29,7 +29,7 @@ void fliona::twovarswapping() //process sud sa function
 }
 
 
-void hazel::threevarswapping() //process sud ani nga function
+void fliona::threevarswapping() //process sud ani nga function
 {
 	cout<<endl<<"THREE VARIABLES"<<endl<<"ENTER X:";
 	cin>>x; //input value in x
